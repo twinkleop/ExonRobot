@@ -23,9 +23,9 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @Abishnoi1M
-#     MY ALL BOTS :- Abishnoi_bots
-#     GITHUB :- KingAbishnoi ""
+# TG :- @ll_am_toxic_ll
+#     MY ALL BOTS :- ll_My_Legacy_ll
+#     OWNER :- ll_am_toxic_ll ""
 
 from pymongo import MongoClient
 from pyrogram import *
